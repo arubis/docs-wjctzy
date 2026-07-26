@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nqmj1s.radarsatu88.shop/sitemap.xml
